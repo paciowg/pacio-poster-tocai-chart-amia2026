@@ -3,6 +3,6 @@ PACIO TOC-AI/CHART poster and supporting materials for AMIA Annual Symposium 202
 
 <br/>
 
-![TOC-AI CHART Flow](TOC-AI_CHART_Flow-v2.jpg)
+![TOC-AI CHART Flow](./images/TOC-AI_CHART_Flow-v2.jpg)
 
 <br/>
