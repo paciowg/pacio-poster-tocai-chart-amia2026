@@ -3,6 +3,6 @@ PACIO TOC-AI/CHART poster and supporting materials for AMIA Annual Symposium 202
 
 <br/>
 
-![image]([https://github.com/CodeX-HL7-FHIR-Accelerator/fhir2omop-cookbook](https://github.com/paciowg/pacio-poster-tocai-chart-amia2026)/blob/main/TOC-AI_CHART_Flow-v2.svg)
+![image]([https://github.com/CodeX-HL7-FHIR-Accelerator/fhir2omop-cookbook](https://github.com/paciowg/pacio-poster-tocai-chart-amia2026)/blob/main/TOC-AI_CHART_Flow-v2.jpg)
 
 <br/>
