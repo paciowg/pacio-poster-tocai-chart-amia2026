@@ -1,4 +1,10 @@
-# PACIO Transition of Care AI-Assisted Proof of Concept Leveraging Clinical Health AI-augmented Records Toolkit (CHART)
+<p align="center">
+  <a href="https://pacioproject.org" target="_blank" rel="noopener noreferrer">
+    <img src="./images/PACIO-logo.jpg" width="50%" alt="PACIO Logo">
+  </a>
+</p>
+
+# [PACIO](https://pacioproject.org/) Transition of Care AI-Assisted Proof of Concept Leveraging Clinical Health AI-augmented Records Toolkit (CHART)
 
 <br/>
 
