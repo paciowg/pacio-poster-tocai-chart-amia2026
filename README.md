@@ -46,3 +46,4 @@ producing complete, meaningful, and timely information for the next care team.
 
 * [AMIA 2026 Annual Symposium Poster](./342_Terry.pdf)
 * [TOC-AI/CHART Whitepaper](./AMIA-ToC-AI-Whitepaper.pdf)
+* [TOC-AI/CHART Demo](./images/TOC-AI_demo.mp4)
