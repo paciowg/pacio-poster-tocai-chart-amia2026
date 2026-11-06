@@ -29,8 +29,10 @@ care transitions.
 
 A prototype was created to address this problem. It consisted of two complementary systems:
 
-* **CHART**: a standards-led, AI-augmented toolkit of services that consolidate structured
-& unstructured data into standardized & harmonized healthcare information.
+* **CHART** (Clinical Health AI-augmented Records Toolkit)
+Services: a reusable, modular AI toolkit that provides services for clinical information 
+retrieval and extraction, analysis, synthesis and harmonization, standards transformation, 
+and data-quality assessment.
 * The **ToC-AI** (Transitions of Care AI-Assisted)
 Application: leverages CHART services to organize transition-relevant information
 while preserving clinician review, reconciliation, and source traceability, with the goal of
@@ -46,4 +48,11 @@ producing complete, meaningful, and timely information for the next care team.
 
 * [AMIA 2026 Annual Symposium Poster](./342_Terry.pdf)
 * [TOC-AI/CHART Whitepaper](./AMIA-ToC-AI-Whitepaper.pdf)
-* [TOC-AI/CHART Demo](./images/TOC-AI_demo.mp4)
+
+## ToC-AI Demonstration
+
+See how the ToC-AI application uses CHART services to assemble, analyze, reconcile, and prepare transition information for clinician review and standards-based exchange.
+
+[![Watch the ToC-AI demonstration](https://img.youtube.com/vi/_21XkiY1fzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=_21XkiY1fzo)
+
+[▶ Watch the ToC-AI demonstration on YouTube](https://www.youtube.com/watch?v=_21XkiY1fzo)
