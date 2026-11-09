@@ -53,6 +53,6 @@ producing complete, meaningful, and timely information for the next care team.
 
 See how the ToC-AI application uses CHART services to assemble, analyze, reconcile, and prepare transition information for clinician review and standards-based exchange.
 
-[![Watch the ToC-AI demonstration](https://img.youtube.com/vi/_21XkiY1fzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=_21XkiY1fzo)
+[![Watch the ToC-AI demonstration](https://img.youtube.com/vi/rozGag3sAUc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rozGag3sAUc)
 
-[▶ Watch the ToC-AI demonstration on YouTube](https://www.youtube.com/watch?v=_21XkiY1fzo)
+[▶ Watch the ToC-AI demonstration on YouTube](https://youtu.be/rozGag3sAUc)
